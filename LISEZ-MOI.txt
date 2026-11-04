@@ -1,0 +1,12 @@
+SITE AUDEBERT – PLANS – PERMIS – 3D
+
+Pour prévisualiser : ouvrir index.html dans un navigateur.
+
+Pour publier gratuitement sur GitHub Pages :
+1. Créer un compte sur github.com.
+2. Créer un dépôt public nommé audebert-site (ou autre nom).
+3. Envoyer index.html et le dossier assets/ à la racine du dépôt.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Le site sera accessible à https://VOTRE-IDENTIFIANT.github.io/audebert-site/ (après publication).
+
+Important avant publication : vérifier les coordonnées et ajouter les mentions légales obligatoires (SIRET, hébergeur, responsable de publication et autres informations applicables). Vérifier les droits de publication des images.
